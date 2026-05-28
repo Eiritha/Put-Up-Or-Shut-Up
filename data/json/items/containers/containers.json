@@ -5401,7 +5401,7 @@
     "type": "ITEM",
     "category": "container",
     "name": { "str": "wire spool" },
-    "description": "A large plastic spool designed to hold welding wire, copper wire, or solder.",
+    "description": "A large plastic spool designed to hold welding wire or solder.",
     "weight": "400 g",
     "volume": "1600 ml",
     "material": [ "plastic" ],
@@ -5413,7 +5413,7 @@
         "rigid": false,
         "max_contains_volume": "3000 ml",
         "max_contains_weight": "6 kg",
-        "item_restriction": [ "welding_wire_steel", "welding_wire_alloy", "solder_wire", "cable", "copper_wire" ],
+        "item_restriction": [ "welding_wire_steel", "welding_wire_alloy", "solder_wire" ],
         "transparent": false,
         "moves": 800,
         "volume_multiplier": 0.3
