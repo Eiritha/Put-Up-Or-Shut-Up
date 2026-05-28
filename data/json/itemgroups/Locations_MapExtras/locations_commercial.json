@@ -1729,7 +1729,7 @@
     "type": "item_group",
     "//": "For s_electronics shops",
     "items": [
-      { "item": "cable", "prob": 95, "count": 200, "entry-wrapper": "spool_welding" },
+      [ "cable", 95 ],
       { "group": "box_of_batteries_unopened", "prob": 85 },
       [ "scrap", 70 ],
       [ "e_scrap", 95 ],
