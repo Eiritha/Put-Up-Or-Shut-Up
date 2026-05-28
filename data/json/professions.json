@@ -3938,7 +3938,7 @@
           { "item": "tool_belt" },
           { "group": "charged_smart_watch" },
           { "item": "mbag" },
-          { "item": "solder_wire" },
+          { "item": "solder_wire", "count": 200, "entry-wrapper": "spool_welding" },
           { "group": "charged_smart_phone", "contents-item": "manual_electronics" },
           { "group": "starter_wallet_full" },
           { "group": "charged_flashlight" },
